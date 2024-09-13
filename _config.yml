@@ -6,29 +6,29 @@
 # `jekyll serve -l -H localhost`. If you change this file, please restart the 
 # server process.
 # Basic Site Settings
-locale                   : "en-US"
-title                    : "Kexin (Ivy) Zhao"
-title_separator          : "-"
-name                     : &name "Kexin (Ivy) Zhao"
-description              : &description "Exploring cutting-edge power electronics solutions with a focus on high-frequency transformers and their terminations."
-url                      : https://academicpages.github.io # 如果你有自定义域名，可以在这里填写
-baseurl                  : "" # 站点子路径，通常为空
-repository               : "academicpages/academicpages.github.io"
+
+locale                  : "en-US"
+title                   : "Kexin (Ivy) Zhao"
+title_separator         : "-"
+name                    : &name "Kexin (Ivy) Zhao"
+description             : &description "Exploring cutting-edge power electronics solutions with a focus on high-frequency transformers and their terminations."
+url                     : https://academicpages.github.io # If you have a custom domain, specify it here
+baseurl                 : "" # Usually left blank for the site's subpath
+repository              : "academicpages/academicpages.github.io"
 
 # Site Author
 author:
   # Biographic information
-  avatar           : assets/1.jpg # 本地头像路径，需要将图片上传到服务器或使用相对路径
+  avatar           : "assets/1.jpg" # Relative path to the avatar (upload image to "assets/images/")
   name             : "Kexin (Ivy) Zhao"
-  pronouns         : # 例子: "she/her"
-  bio              : "Exploring cutting-edge power electronics solutions with a focus on 高频 transformer design."
-  location         : "中国 西安"
-  employer         : "西安交通大学"
-  uri              : # 可选：个人网站URL
+  pronouns         : "she/her"
+  bio              : "Exploring cutting-edge power electronics solutions with a focus on MHz transformers and their terminations."
+  location         : "Xi'an, China"
+  employer         : "Xi'an Jiaotong University"
+  uri              : # Optional: Personal website URL
   email            : "kexin@stu.xjtu.edu.cn"
+  orcid            : "https://orcid.org/my-orcid?orcid=0009-0009-9302-1794" # Replace with your ORCID link
 
-
-  orcid            : "http://orcid.org/yourorcidurl" # 可替换成你个人的ORCID链接
 
 
 
