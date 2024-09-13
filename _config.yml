@@ -19,7 +19,7 @@ repository              : "academicpages/academicpages.github.io"
 # Site Author
 author:
   # Biographic information
-  avatar           : "images/1.jpg" # Relative path to the avatar (upload image to "assets/images/")
+  avatar           : "images/profile.png" # Relative path to the avatar (upload image to "assets/images/")
   name             : "Kexin (Ivy) Zhao"
   pronouns         : "she/her"
   bio              : "Exploring cutting-edge power electronics solutions with a focus on MHz transformers and their terminations."
