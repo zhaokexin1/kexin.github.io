@@ -18,7 +18,7 @@ repository               : "academicpages/academicpages.github.io"
 # Site Author
 author:
   # Biographic information
-  avatar           : "C:/Users/admin/Desktop/1.jpg" # 本地头像路径，需要将图片上传到服务器或使用相对路径
+  avatar           : assets/1.jpg # 本地头像路径，需要将图片上传到服务器或使用相对路径
   name             : "Kexin (Ivy) Zhao"
   pronouns         : # 例子: "she/her"
   bio              : "Exploring cutting-edge power electronics solutions with a focus on 高频 transformer design."
